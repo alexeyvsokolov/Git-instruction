@@ -8,7 +8,7 @@ LICENSE: [MIT](/license.md)
 
 ### **Содержание:**
 
-1. git config
+1. [git config](/config.md)
 2. git init
 3. git clone
 4. [git add](/add.md)
