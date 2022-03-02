@@ -21,7 +21,7 @@ LICENSE: [MIT](/license.md)
 11. git pull
 12. git merge
 13. git diff
-14. git reset
+14. [git reset](/reset.md)
 15. git revert
 16. git tag
 17. git log
