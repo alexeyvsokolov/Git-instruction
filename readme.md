@@ -10,14 +10,14 @@ LICENSE: [MIT](/license.md)
 
 1. [git config](/config.md)
 2. [git init](/init.md)
-3. git clone
+3. [git clone](/clone.md)
 4. [git add](/add.md)
-5. git commit
+5. [git commit](/commit.md)
 6. [git status](/status.md)
 7. git remote
 8. git checkout
 9. git branch
-10. git push
+10. [git push](/push.md)
 11. git pull
 12. git merge
 13. git diff
