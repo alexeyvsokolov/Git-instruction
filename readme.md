@@ -9,11 +9,11 @@ LICENSE: [MIT](/license.md)
 ### **Содержание:**
 
 1. [git config](/config.md)
-2. git init
+2. [git init](/init.md)
 3. git clone
 4. [git add](/add.md)
 5. git commit
-6. git status
+6. [git status](/status.md)
 7. git remote
 8. git checkout
 9. git branch
