@@ -15,11 +15,11 @@ LICENSE: [MIT](/license.md)
 5. [git push](/push.md)
 6. [git status](/status.md)
 7. [git clone](/clone.md)
-8. git pull
-9. git remote
-10. git checkout
-11. git branch
-12. git merge
+8. [git pull](/pull.md)
+9. [git remote](/remote.md)
+10. [git checkout](/checkout.md)
+11. [git branch](/branch.md)
+12. [git merge](/merge.md)
 13. git diff
 14. [git reset](/reset.md)
 15. git revert
