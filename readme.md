@@ -6,7 +6,11 @@ LICENSE: [MIT](/license.md)
 
 ---
 
-### **Содержание:**
+**Git** - распределённая система управления версиями.
+
+<ins>Система контроля версий</ins> – это система, записывающая изменения в файл или набор файлов в течении времени и позволяющая вернуться позже к определенной версии.
+
+## **Основные команды Git**
 
 1. [git config](/config.md)
 2. [git init](/init.md)
@@ -20,11 +24,11 @@ LICENSE: [MIT](/license.md)
 10. [git checkout](/checkout.md)
 11. [git branch](/branch.md)
 12. [git merge](/merge.md)
-13. git diff
+13. [git diff](/diff.md)
 14. [git reset](/reset.md)
-15. git revert
-16. git tag
-17. git log
+15. [git revert](/revert.md)
+16. [git tag](/tag.md)
+17. [git log](/log.md)
 
 
 ---
