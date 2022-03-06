@@ -1,4 +1,4 @@
-[<back](/readme.md)
+[< back](/readme.md)
 
 # The MIT License (MIT)
 
