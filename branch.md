@@ -1,4 +1,4 @@
-[< к содержанию](/readme.md)
+[< back](/readme.md)
 
 # git branch
 
