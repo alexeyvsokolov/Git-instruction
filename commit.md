@@ -31,3 +31,4 @@ git commit -m "Update"
 git commit -m "Add description"
 ```
 
+``` git commit --amend -m "new commit" ``` — добавить изменения, новое название к последнему коммиту.
