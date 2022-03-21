@@ -28,7 +28,7 @@ LICENSE: [MIT](/license.md)
 15. [git revert](/revert.md)
 16. [git tag](/tag.md)
 17. [git log](/log.md)
-
+18. [git help](/help.md)
 
 ---
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
