@@ -31,8 +31,10 @@ LICENSE: [MIT](/license.md)
 18. [git revert](/revert.md)
 19. [git tag](/tag.md)
 20. [git log](/log.md)
-21. [git reflog](/reflog.md)
-22. [git help](/help.md)
+21. [git show](/show.md)
+22. [git grep](/grep.md)
+23. [git reflog](/reflog.md)
+24. [git help](/help.md)
 
 ---
 GIT logo by Jason Long - http://git-scm.com/downloads/logos, license: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
