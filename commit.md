@@ -42,5 +42,5 @@ git commit -a -m " commit"
 Внесение в индекс и создание коммита на основе изменений единственного файла. Пример:
 
 ```
-git commit redme.md
+git commit readme.md
 ```
